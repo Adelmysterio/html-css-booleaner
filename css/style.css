@@ -39,3 +39,26 @@ h1 {
 .caption {
     font-size: 12px;
 }
+
+table{
+    border: none;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #4ea0ff;
+    color: white;
+}
+tr {
+    text-align: center;
+}
+
+.blue-row{
+    background-color:rgb(162, 238, 238) ;
+}
+
+
+.third-col {
+    text-align: left;
+    width: 50%;
+}
