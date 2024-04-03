@@ -1,0 +1,28 @@
+header {
+    height: 12em;
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+}
+
+.logo {
+    width: 25em;
+    padding-top: 6em;
+}
+
+h1 {
+    margin: 0px;
+    font-size: 4em;
+}
+
+.font-gray {
+    color: gray;
+}
+
+.editor {
+    font-size: 2em;
+}
+
+.font-blue {
+    color: #4ea0ff;
+}
