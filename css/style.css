@@ -62,18 +62,17 @@ tr {
     width: 50%;
 }
 
-.first-img {
-background-image: url(../img/monitor.jpg);
-background-repeat: no-repeat;
-background-size: contain;
-height: 10em;
-color: white;
-}
-
-.second-img {
-    background-image: url(../img/graph.jpg);
+.box-img{
     background-repeat: no-repeat;
     background-size: contain;
     height: 10em;
     color: white;
+}
+
+.first-img {
+    background-image: url(../img/monitor.jpg);
+}
+
+.second-img {
+    background-image: url(../img/graph.jpg);
 }
